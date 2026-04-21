@@ -1,0 +1,20 @@
+---
+title: "从零开始：我的强化学习围棋助手开发日志"
+description: "记录如何将 PyTorch 训练的模型通过 WebGPU 部署到浏览器。"
+pubDate: "Apr 21 2026"
+heroImage: "../../assets/blog-placeholder-5.jpg"
+---
+
+### 1. 训练思路
+
+我使用了 MCTS（蒙特卡洛树搜索）结合策略价值网络，来让模型在对弈过程中同时考虑局部最优和全局胜率。前期重点还是先把训练流程、落子逻辑和推理接口串起来，保证整个系统能稳定跑通。
+
+### 2. 在线对弈演示
+
+你可以直接在这里试玩。左侧是我的研究心得，右侧（或在较窄屏幕下的下方）就是实时运行的页面：
+
+<iframe
+  src="https://quantumxiaol.github.io/Goplayer/"
+  style="width: 100%; height: 700px; border: 2px solid #b8954d; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);"
+  title="Goplayer Web"
+></iframe>
