@@ -2,7 +2,7 @@
 title: "Linux配置环境"
 description: "配置linux系统的几种方法"
 pubDate: "Jul 08 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 # Linux配置环境

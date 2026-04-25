@@ -2,7 +2,7 @@
 title: "C/CPP环境安装"
 description: "C CPP开发环境安装配置"
 pubDate: "Jul 08 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 

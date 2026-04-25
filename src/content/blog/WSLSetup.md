@@ -2,7 +2,7 @@
 title: "WSL 安装环境"
 description: "在WSL(Windows Subsystem for Linux)上安装开发环境"
 pubDate: "Jul 08 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 # 在WSL(Windows Subsystem for Linux)上安装虚拟环境

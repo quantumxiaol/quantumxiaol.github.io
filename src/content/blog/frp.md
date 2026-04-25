@@ -2,7 +2,7 @@
 title: "FRP Deployment"
 description: "Deploy FRP Server and FRP Client"
 pubDate: "Jul 08 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 # Frp Deployment

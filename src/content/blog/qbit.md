@@ -2,7 +2,7 @@
 title: "qBittorrent Deployment"
 description: "Deploy qBittorrent on ubuntu"
 pubDate: "Jul 08 2022"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 # qBittorrent Deployment

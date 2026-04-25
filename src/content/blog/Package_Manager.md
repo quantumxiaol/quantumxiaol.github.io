@@ -2,7 +2,7 @@
 title: "包管理工具"
 description: "Linux、MacOS、Windows的包管理工具"
 pubDate: "Jul 08 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 

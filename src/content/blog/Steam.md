@@ -2,7 +2,7 @@
 title: "L4D2 Server Deployment"
 description: "在Linux上部署求生之路服务器"
 pubDate: "Jul 08 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 # 安装Steam

@@ -2,7 +2,7 @@
 title: "Wordpress Deployment"
 description: "在Linux上部署Wordpress"
 pubDate: "Jul 08 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 

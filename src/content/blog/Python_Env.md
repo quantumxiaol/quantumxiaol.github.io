@@ -2,7 +2,7 @@
 title: "Python环境管理"
 description: "用conda miniconda venv uv等配置环境"
 pubDate: "Jul 08 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+# heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 # Python环境管理
