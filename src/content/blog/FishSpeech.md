@@ -64,9 +64,6 @@ flowchart TD
 
 来源：[Fish Speech 官方说明](https://github.com/fishaudio/fish-speech) · [Qwen3-TTS 官方模型说明](https://github.com/QwenLM/Qwen3-TTS#released-models-description-and-download)及[技术报告](https://arxiv.org/html/2601.15621v1#S3.SS1) · [IndexTTS 官方说明](https://github.com/index-tts/index-tts)及[推理代码](https://github.com/index-tts/index-tts/blob/main/indextts/infer_v2.py)。对比资料核对于 2026-09-17。
 
-Fish 和 Qwen3-TTS 都采用了分层生成多码本的思路，因此不能仅用“自回归”和“非自回归”来区分它们。实际速度还取决于模型规模、音频帧率、注意力实现、编译方式和硬件。
-
-IndexTTS-2.5 是在 2026 年 8 月发布的，比我最初定位 Fish 性能问题和提交 PR 更晚。它属于后续选型比较，不能写成这次优化开始前就完成的对照实验。我对 IndexTTS 的服务封装工作也与本次 Fish 推理优化分开记录。[IndexTTS 发布时间](https://github.com/index-tts/index-tts#-news)
 
 ## 4. 瓶颈：有因果 mask，仍然传入了完整缓存
 
